@@ -10,3 +10,6 @@ body {
   margin: 0 auto;
   width: 95%;
 }
+:root{
+  --header: #f5f5f5;
+}
